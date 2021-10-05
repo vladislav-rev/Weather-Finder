@@ -1,4 +1,9 @@
 # Weather-Finder
+
+You can see it here https://vladislav-rev.github.io/Weather-Finder/
+
+Technology:  React, Bootstrap CSS.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
