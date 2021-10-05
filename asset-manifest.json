@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Weather-Finder/static/css/main.9996696c.chunk.css",
+    "main.js": "/Weather-Finder/static/js/main.1a6e7ea7.chunk.js",
+    "main.js.map": "/Weather-Finder/static/js/main.1a6e7ea7.chunk.js.map",
+    "runtime-main.js": "/Weather-Finder/static/js/runtime-main.15549c2a.js",
+    "runtime-main.js.map": "/Weather-Finder/static/js/runtime-main.15549c2a.js.map",
+    "static/css/2.0624914a.chunk.css": "/Weather-Finder/static/css/2.0624914a.chunk.css",
+    "static/js/2.3de25347.chunk.js": "/Weather-Finder/static/js/2.3de25347.chunk.js",
+    "static/js/2.3de25347.chunk.js.map": "/Weather-Finder/static/js/2.3de25347.chunk.js.map",
+    "index.html": "/Weather-Finder/index.html",
+    "precache-manifest.a49819880e4614ed30829f5d61dd9833.js": "/Weather-Finder/precache-manifest.a49819880e4614ed30829f5d61dd9833.js",
+    "service-worker.js": "/Weather-Finder/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/Weather-Finder/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.9996696c.chunk.css.map": "/Weather-Finder/static/css/main.9996696c.chunk.css.map",
+    "static/media/App.css": "/Weather-Finder/static/media/weather.b6796c73.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15549c2a.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.3de25347.chunk.js",
+    "static/css/main.9996696c.chunk.css",
+    "static/js/main.1a6e7ea7.chunk.js"
+  ]
+}
