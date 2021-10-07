@@ -4,6 +4,10 @@ You can see it here https://vladislav-rev.github.io/Weather-Finder/
 
 Technology:  React, Bootstrap CSS.
 
+Demonstration:
+![image](https://user-images.githubusercontent.com/68603630/136348258-3658f94c-d8fc-4ca7-9a01-bf0ccb17e472.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
